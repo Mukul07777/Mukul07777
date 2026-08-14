@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-about--mukul.netlify.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://about-mukul.netlify.app)
 [![Email](https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukul24359@iiitd.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-u-k-u-l-a569132b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-a569a132b/)
 
 </div>
 
@@ -25,6 +25,16 @@
 <img src="https://raw.githubusercontent.com/Mukul07777/Mukul07777/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/status-open%20to%20opportunities-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/focus-AI%20%2F%20full--stack-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/based%20in-India-0EA5E9?style=flat-square" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6D28D9,100:0EA5E9&height=3&section=header&width=100%25" width="100%"/>
 
 ## Recent builds
 
@@ -91,6 +101,8 @@ AI study companion that OCRs your notes as you work, quizzes you on them, and di
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0EA5E9,100:6D28D9&height=3&section=header&width=100%25" width="100%"/>
+
 ## Stack
 
 <div align="center">
@@ -100,6 +112,8 @@ AI study companion that OCRs your notes as you work, quizzes you on them, and di
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6D28D9,100:0EA5E9&height=3&section=header&width=100%25" width="100%"/>
 
 ## GitHub stats
 
