@@ -130,7 +130,7 @@ AI study companion that OCRs your notes as you work, quizzes you on them, and di
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/Mukul07777/count.svg" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Mukul07777&label=Profile+views&color=0EA5E9&style=flat" alt="Profile views"/>
 
 </div>
 
