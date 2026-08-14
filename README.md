@@ -8,10 +8,15 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-site.com)
-[![Email](https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-about--mukul.netlify.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://about-mukul.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukul24359@iiitd.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-u-k-u-l-a569132b)
+
+</div>
+
+<div align="center">
+
+<sub>IIIT Delhi · 2024359</sub>
 
 </div>
 
@@ -104,6 +109,14 @@ AI study companion that OCRs your notes as you work, quizzes you on them, and di
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul07777&theme=tokyonight&hide_border=true&background=0d1117&ring=0EA5E9&fire=6D28D9&currStreakLabel=0EA5E9" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul07777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/Mukul07777/count.svg" alt="Profile views"/>
 
 </div>
 
